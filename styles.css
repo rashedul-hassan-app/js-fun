@@ -51,3 +51,28 @@ button {
     width: 100px;
     height: 100px;
 }
+
+.box-container {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+
+.mini-box {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;;
+    padding: 12px;
+}
+
+.img-box {
+    height: 50%;
+}
+
+.twitter-img {
+    width: 25%;
+}
+
+.subtitle {
+    color: rgba(6, 4, 4, 0.45);
+}
